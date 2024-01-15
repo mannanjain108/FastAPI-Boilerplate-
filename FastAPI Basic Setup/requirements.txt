@@ -1,0 +1,8 @@
+fastapi[all]
+sqlalchemy
+python-jose[cryptography]
+passlib[bcrypt]
+pydantic-settings
+marshmallow
+pymysql
+pytest
